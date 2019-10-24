@@ -21,7 +21,7 @@ This assignment asks you to use the GPIO pins of the micro:bit to achieve extern
 
 #### 2.3 Videos of operation
 
-1. For each programming file, record a short video of the LED operation. Upload to [Imgur](https://imgur.com/).
+1. For each programming file, record a short video of the LED operation. Upload to [Imgur](http://imgur.com/a/c0JZc4X)
 
 2. **(Bonus)** Make one video out of the different clips and upload to [Imgur](https://imgur.com/).
 
@@ -88,5 +88,4 @@ This assignment asks you to use the GPIO pins of the micro:bit to achieve extern
 ---
 
 ### Description
-
-TODO: Your project description, in your own words. _Clarity and grammatical correctness are required._
+This program takes a reading of soil moisture and outputs a numerical value on the display. This also turns off the sensor when a reading is not being taken. 
